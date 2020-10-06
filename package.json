@@ -1,0 +1,19 @@
+{
+  "name": "bacaanku",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahyubagus-ars/bacaanku.git"
+  },
+  "author": "wahyubagus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahyubagus-ars/bacaanku/issues"
+  },
+  "homepage": "https://github.com/wahyubagus-ars/bacaanku#readme"
+}
